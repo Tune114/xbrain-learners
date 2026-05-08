@@ -10,15 +10,15 @@ Weekly learning guides and project announcements for the XBrain AWS DevOps/Cloud
 
 ## Weekly Materials
 
-| Week | Theme | Guide | Announcement |
-|------|-------|-------|--------------|
-| W1 | Propose & Map — Architecture diagram, on-prem to AWS mapping | — | — |
-| W2 | Storage & Identity — S3, EBS, IAM, VPC | [Learner Guide](W2/W2_learner_guide.md) | [Project Announcement](W2/W2_project_announcement.md) |
-| W3 | Database & AI — RDS, DynamoDB, Bedrock | Coming soon | Coming soon |
-| W4 | Data Pipelines — ETL, analytics, ML pipelines | Coming soon | Coming soon |
-| W5 | Networking — VPC hardening, API Gateway, WAF | Coming soon | Coming soon |
-| W6 | Operations & Security — CloudWatch, auto-scaling, KMS | Coming soon | Coming soon |
-| W7 | Full Integration & Launch — Load testing, demo | Coming soon | Coming soon |
+| Week | Theme | Guide | Announcement | Recordings | Slides |
+|------|-------|-------|--------------|------------|--------|
+| W1 | Propose & Map — Architecture diagram, on-prem to AWS mapping | — | — | — | — |
+| W2 | Storage & Identity — S3, EBS, IAM, VPC | [Learner Guide](W2/W2_learner_guide.md) | [Project Announcement](W2/W2_project_announcement.md) | [Recordings](W2/recordings/) | [Slides](W2/slides/) |
+| W3 | Database & AI — RDS, DynamoDB, Bedrock | Coming soon | Coming soon | [Recordings](W3/recordings/) | [Slides](W3/slides/) |
+| W4 | Data Pipelines — ETL, analytics, ML pipelines | Coming soon | Coming soon | [Recordings](W4/recordings/) | [Slides](W4/slides/) |
+| W5 | Networking — VPC hardening, API Gateway, WAF | Coming soon | Coming soon | — | — |
+| W6 | Operations & Security — CloudWatch, auto-scaling, KMS | Coming soon | Coming soon | — | — |
+| W7 | Full Integration & Launch — Load testing, demo | Coming soon | Coming soon | — | — |
 
 ## How to Use
 
